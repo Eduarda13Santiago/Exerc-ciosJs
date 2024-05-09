@@ -49,7 +49,7 @@
 
 //let nome = prompt("Digite o seu nome:");
 
-//console.log("Bem vindo! " + nome);
+//console.log("Bem vindo!" + nome);
 
 //Fazendo conta com Javascript
 
@@ -66,10 +66,10 @@
 //console.log(media)
 
 //parseFloat => Transformado o que está entre () em número com virgula / número frasionado
-let produto1 = parseFloat(prompt ("Digite o valor do produto: "));
+//let produto1 = parseFloat(prompt ("Digite o valor do produto: "));
 
-let produto2 = parseFloat(prompt("Digite o valor do segundo produto:"));
+//let produto2 = parseFloat(prompt("Digite o valor do segundo produto:"));
 
-let soma = produto1 + produto2;
+//let soma = produto1 + produto2;
 
-console.log(soma)
+//console.log(soma)

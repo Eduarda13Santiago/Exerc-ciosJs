@@ -5,7 +5,7 @@
 
 //solicita ao usuário um número de 1 a 7 representando um dia da semana
 
-//let diadasemana  = parseInt(prompt("Digite um número de 1 a 7 para representar um dia da semana :"));
+// let diadasemana  = parseInt(prompt("Digite um número de 1 a 7 para representar um dia da semana :"));
 
 // if(diadasemana == 1 ){
 //     console.log("Segunda-feira")

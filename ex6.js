@@ -5,4 +5,16 @@
 
 // let ano = prompt("Digite o ano de nascimento")
 
+// let anoAtual = new Date ().getFullYear ();
 
+// let idade = anoAtual - ano;
+
+// if(idade >= 18){
+//     console.log("você é maior de idade ")
+//     console.log("Sua idade é :" + idade)
+// }
+
+// else{
+//     console.log("Você é menor de idade ")
+//     console.log("Sua idade é:"+ idade)
+// }
